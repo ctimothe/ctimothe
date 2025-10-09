@@ -3,15 +3,15 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Elshod+Karimov%3B+Cybersecurity+Enthusiast" alt="Typing SVG: Elshod Karimov; Cybersecurity Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Elshod+Karimov%3B+Secure+Full-Stack+Developer" alt="Typing SVG: Elshod Karimov; Secure Full-Stack Developer" />
 </h1>
 
 <p align="center">
-  <b><i>PENETRATION TESTER (Aspiring)</i></b>
+  <b><i>SECURE FULL-STACK DEVELOPER</i></b>
   &nbsp;|&nbsp;
-  <b><i>LINUX CUSTOMIZATION & AUTOMATION</i></b>
+  <b><i>SECDEV & SYSTEM AUTOMATION</i></b>
   &nbsp;|&nbsp;
-  <b><i>FULL-STACK DEVELOPER</i></b>
+  <b><i>APPLICATIONS & DATABASES</i></b>
 </p>
 
 
@@ -33,26 +33,26 @@
 
 ---
 
-### 🛡️ Core Focus & Expertise
+### 💡 Core Focus: Building Secure Systems
 
-- 💻 **Linux Environment Mastery:** Deep experience with **Arch Linux** and **Hyprland** for optimized, high-performance, and custom terminal-centric workflows.
-- 🔐 **Cybersecurity & Ethical Hacking:** Actively developing skills in penetration testing, focusing on **web exploits**, **reverse engineering**, and **CTF** challenges (Try Hack Me).
-- ⚙️ **Full-Stack Development:** Background in **Frontend Development** (React/JavaScript) with a strong, ongoing focus on **Backend** logic and **Database Management** (Node.js/Express/MongoDB).
-- 💡 **Passion Projects:** Driven by gaining **full root access**, **system security hardening**, and applying secure coding practices across the stack.
+- **Secure Full-Stack Development:** Specializing in building and maintaining **secure web applications, pages, CRMs, and APIs**. Dedicated to implementing robust **security by design** principles.
+- **Data Integrity & Databases:** Experienced in developing and managing reliable, performant, and secure **database structures** (MongoDB) for critical applications.
+- **System Automation & Customization:** Deep experience with **Arch Linux** and **Hyprland** for creating optimized, high-performance, and custom terminal-centric workflows.
+- **Continuous Learning:** Applying knowledge from ethical hacking (web exploits, CTFs) to identify and patch vulnerabilities proactively in my development work.
 
 ---
 
 ### 🛠️ Technical Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,bash,python,js,react,nodejs,express,mongodb,git,vscode" alt="Skills: Linux, Arch, Bash, Python, JavaScript, React, Node.js, Express, MongoDB, Git, VS Code" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,linux,arch,bash,python,git,vscode" alt="Skills: JavaScript, React, Node.js, Express, MongoDB, Linux, Arch, Bash, Python, Git, VS Code" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite badge" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark badge" />
-  <img src="https://img.shields.io/badge/Nmap-004659?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap badge" />
-  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=blue" alt="Metasploit badge" />
+  <img src="https://img.shields.io/badge/OWASP-005697?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge" />
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab badge" />
 </p>
 
 
@@ -76,7 +76,7 @@
 > "_The quieter you become, the more you are able to hear._" — **Mr. Robot**  
 > "_Just because you're correct doesn't mean you're right._" — **Levi Ackerman**
 
-- **Theme Preference:** Dark mode aficionado for focused work.
+- **Theme Preference:** Dark mode aficionado for focused work and a clean terminal aesthetic.
 - **Interests:** Anime, Cybersecurity dramas.
 
 <div align="center">
