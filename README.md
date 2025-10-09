@@ -68,21 +68,6 @@
   />
 </div>
 
-
----
-
-### 🖤 Aesthetics & Inspiration
-
-> "_The quieter you become, the more you are able to hear._" — **Mr. Robot**  
-> "_Just because you're correct doesn't mean you're right._" — **Levi Ackerman**
-
-- **Theme Preference:** Dark mode aficionado for focused work and a clean terminal aesthetic.
-- **Interests:** Anime, Cybersecurity dramas.
-
-<div align="center">
-  <img src="https://media.tenor.com/CUtbNBv1s8YAAAAC/aesthetic-anime.gif" width="300px" alt="Aesthetic anime GIF" />
-</div>
-
 ---
 
 ### 🌐 Connect With Me
