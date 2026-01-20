@@ -9,7 +9,7 @@
 <p align="center" style="font-size: 0.9em;">
   &nbsp;<b><i>SECURE FULL-STACK DEVELOPER</i></b>
   &nbsp;|&nbsp;
-  <b><i>AI/ML trainer</i></b>
+  <b><i>AI & LLM TRAINER</i></b>
   &nbsp;|&nbsp;
   <b><i>APPLICATIONS & DATABASES</i></b>
 </p>
