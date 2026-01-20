@@ -70,8 +70,8 @@
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
-- 💼 **LinkedIn:** [Elshod Karimov](https://www.linkedin.com/in/elshod-karimov-62124a345)
-- 📬 **Email:** karimovelshod4@gmail.com
-- 💬 **Telegram:** [@archuser_life](https://t.me/archuser_life)
+- **LinkedIn:** [Elshod Karimov](https://www.linkedin.com/in/elshod-karimov-62124a345)
+- **Email:** karimovelshod4@gmail.com
+- **Telegram:** [@archuser_life](https://t.me/archuser_life)
