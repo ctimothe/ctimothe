@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Elshod+Karimov%3B+%20Secure+Full-Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&x=10&lines=Elshod+Karimov%3B+Secure+Full-Stack+Developer" />
 </h1>
 
 <p align="center" style="font-size: 0.9em;">
