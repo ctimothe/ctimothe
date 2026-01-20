@@ -33,7 +33,7 @@
 
 ---
 
-### 💡 Core Focus: Building Secure Systems
+### Core Focus: Building Secure Systems
 
 - **Secure Full-Stack Development:** Specializing in building and maintaining **secure web applications, pages, CRMs, and APIs**. Dedicated to implementing robust **security by design** principles.
 - **Data Integrity & Databases:** Experienced in developing and managing reliable, performant, and secure **database structures** (MongoDB) for critical applications.
@@ -42,7 +42,7 @@
 
 ---
 
-### 🛠️ Technical Stack & Tools
+### Technical Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,linux,arch,bash,python,git,vscode" alt="Skills: JavaScript, React, Node.js, Express, MongoDB, Linux, Arch, Bash, Python, Git, VS Code" />
@@ -58,7 +58,7 @@
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
   <img 
