@@ -6,15 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Elshod+Karimov%3B+Secure+Full-Stack+Developer" alt="Typing SVG: Elshod Karimov; Secure Full-Stack Developer" />
 </h1>
 
-<p align="center">
-  <small>
-    <b><i>SECURE FULL-STACK DEVELOPER</i></b>
-    &nbsp;|&nbsp;
-    <b><i>SECDEV & SYSTEM AUTOMATION</i></b>
-    &nbsp;|&nbsp;
-    <b><i>APPLICATIONS & DATABASES</i></b>
-  </small>
+<p align="center" style="font-size: 0.9em;">
+  &nbsp;<b><i>SECURE FULL-STACK DEVELOPER</i></b>
+  &nbsp;|&nbsp;
+  <b><i>SECDEV & SYSTEM AUTOMATION</i></b>
+  &nbsp;|&nbsp;
+  <b><i>APPLICATIONS & DATABASES</i></b>
 </p>
+
 
 
 
