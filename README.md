@@ -7,12 +7,15 @@
 </h1>
 
 <p align="center">
-  <b><i>SECURE FULL-STACK DEVELOPER</i></b>
-  &nbsp;|&nbsp;
-  <b><i>SECDEV & SYSTEM AUTOMATION</i></b>
-  &nbsp;|&nbsp;
-  <b><i>APPLICATIONS & DATABASES</i></b>
+  <small>
+    <b><i>SECURE FULL-STACK DEVELOPER</i></b>
+    &nbsp;|&nbsp;
+    <b><i>SECDEV & SYSTEM AUTOMATION</i></b>
+    &nbsp;|&nbsp;
+    <b><i>APPLICATIONS & DATABASES</i></b>
+  </small>
 </p>
+
 
 
 
