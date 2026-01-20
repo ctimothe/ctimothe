@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/looksmaxxer11" target="_blank" style="margin: 0 10px;">
+  <a href="https://github.com/ctimothe" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluency/48/github.png" width="32px" alt="GitHub icon" />
   </a>
   <a href="mailto:karimovelshod4@gmail.com" target="_blank" style="margin: 0 10px;">
@@ -64,7 +64,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=looksmaxxer11&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&title_color=9f7aee&icon_color=72f1b8&text_color=c9d1d9&bg_color=1f2233" 
+    src="https://github-readme-stats.vercel.app/api?username=ctimothe&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&title_color=9f7aee&icon_color=72f1b8&text_color=c9d1d9&bg_color=1f2233" 
     alt="GitHub Stats"
     style="height: 180px; width: auto; margin-right: 10px;"
   />
@@ -76,4 +76,4 @@
 
 - **LinkedIn:** [Elshod Karimov](https://www.linkedin.com/in/elshod-karimov-62124a345)
 - **Email:** karimovelshod4@gmail.com
-- **Telegram:** [@archuser_life](https://t.me/archuser_life)
+- **Telegram:** [@archuser_life](https://t.me/ctimothe)
