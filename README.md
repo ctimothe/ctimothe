@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/elshod-karimov-62124a345" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="32px" alt="LinkedIn icon" />
   </a>
-  <a href="https://t.me/archuser_life" target="_blank" style="margin: 0 10px;">
+  <a href="https://t.me/ctimothe" target="_blank" style="margin: 0 10px;">  
     <img src="https://img.icons8.com/fluency/48/telegram-app.png" width="32px" alt="Telegram icon" />
   </a>
 </p>
@@ -76,4 +76,4 @@
 
 - **LinkedIn:** [Elshod Karimov](https://www.linkedin.com/in/elshod-karimov-62124a345)
 - **Email:** karimovelshod4@gmail.com
-- **Telegram:** [@archuser_life](https://t.me/ctimothe)
+- **Telegram:** [ctimothe](https://t.me/ctimothe)
