@@ -19,9 +19,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/ctimothe" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/fluency/48/github.png" width="32px" alt="GitHub icon" />
-  </a>
   <a href="mailto:karimovelshod4@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="32px" alt="Gmail icon" />
   </a>
