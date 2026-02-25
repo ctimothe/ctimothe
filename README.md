@@ -58,7 +58,7 @@
 ---
 
 ## GitHub snapshot
-<img src="./github-metrics.svg" alt="GitHub metrics" width="700" />
+<img src="https://raw.githubusercontent.com/ctimothe/ctimothe/main/github-metrics.svg" width="800" />
 
 ---
 
