@@ -57,15 +57,8 @@
 
 ---
 
-### GitHub Activity
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ctimothe&show_icons=true&theme=tokyonight&hide=contribs&count_private=true&title_color=9f7aee&icon_color=72f1b8&text_color=c9d1d9&bg_color=1f2233" 
-    alt="GitHub Stats"
-    style="height: 180px; width: auto; margin-right: 10px;"
-  />
-</div>
+## GitHub snapshot
+<img src="./github-metrics.svg" alt="GitHub metrics" width="700" />
 
 ---
 
