@@ -2,7 +2,6 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmYxNnVqbmZnb3l6dWQxbjd2dHdiYzgyNzIwaW91dnVnbGx1emQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Binary code/Matrix style animation" />
 </div>
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&x=10&lines=Elshod+Karimov%3B+Secure+Full-Stack+Developer" />
 </h1>
