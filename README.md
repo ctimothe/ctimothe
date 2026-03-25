@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab badge" />
 </p>
 
-
 ---
 
 ## Contribution snake 🐍
