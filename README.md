@@ -27,7 +27,6 @@
 
 ---
 
-
 ### Core Focus: Building Secure Systems
 
 - **Secure Full-Stack Development:** Specializing in building and maintaining **secure web applications, pages, CRMs, and APIs**. Dedicated to implementing robust **security by design** principles.
@@ -53,7 +52,6 @@
 ---
 
 ## Contribution snake
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ctimothe/ctimothe/output/github-contribution-grid-snake-dark.svg">
