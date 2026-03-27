@@ -26,6 +26,7 @@
 
 ---
 
+
 ### Core Focus: Building Secure Systems
 
 - **Secure Full-Stack Development:** Specializing in building and maintaining **secure web applications, pages, CRMs, and APIs**. Dedicated to implementing robust **security by design** principles.
