@@ -12,10 +12,6 @@
   <b><i>APPLICATIONS & DATABASES</i></b>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ctimothe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <p align="center">
   <a href="mailto:karimovelshod4@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="32px" alt="Gmail icon" />
