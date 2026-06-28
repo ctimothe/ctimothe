@@ -1,18 +1,16 @@
-
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmYxNnVqbmZnb3l6dWQxbjd2dHdiYzgyNzIwaW91dnVnbGx1emQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Binary code/Matrix style animation" />
 </div>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&x=10&lines=Elshod+Karimov%3B+Secure+Full-Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=500&x=10&lines=Elshod+Karimov%3B+Full-Stack+Developer" />
 </h1>
 <p align="center" style="font-size: 0.9em;">
   &nbsp;<b><i>FULL-STACK DEVELOPER</i></b>
   &nbsp;|&nbsp;
-  <b><i>AI & LLM TRAINER</i></b>
+  <b><i>AI PRODUCTS</i></b>
   &nbsp;|&nbsp;
-  <b><i>APPLICATIONS & DATABASES</i></b>
+  <b><i>REACT · NODE.JS · GO · POSTGRESQL</i></b>
 </p>
-
 <p align="center">
   <a href="mailto:karimovelshod4@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="32px" alt="Gmail icon" />
@@ -27,21 +25,23 @@
 
 ---
 
-### Core Focus: Building Secure Systems
+```yaml
+name:               Elshod Karimov
+role:               Full-Stack Developer
+currently_building: Legal AI platform for lawyers in Uzbekistan
+stack:              [React, Node.js, Go, PostgreSQL]
+location:           Tashkent, Uzbekistan
+open_to:            Client projects · Collaborations
+` `` ← remove this space, explained below
 
-- **Secure Full-Stack Development:** Specializing in building and maintaining **secure web applications, pages, CRMs, and APIs**. Dedicated to implementing robust **security by design** principles.
-- **Data Integrity & Databases:** Experienced in developing and managing reliable, performant, and secure **database structures** (MongoDB) for critical applications.
-- **System Automation & Customization:** Deep experience with **Arch Linux** and **Hyprland** for creating optimized, high-performance, and custom terminal-centric workflows.
-- **Continuous Learning:** Applying knowledge from ethical hacking (web exploits, CTFs) to identify and patch vulnerabilities proactively in my development work.
+3 years building production web apps and APIs. Currently focused on a legal AI product for Uzbekistan — RAG-based document search, Node.js/Go backend, clean React interface on the front.
 
 ---
 
 ### Technical Stack & Tools
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,linux,arch,bash,python,git,vscode" alt="Skills: JavaScript, React, Node.js, Express, MongoDB, Linux, Arch, Bash, Python, Git, VS Code" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite badge" />
   <img src="https://img.shields.io/badge/OWASP-005697?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP badge" />
@@ -52,7 +52,6 @@
 ---
 
 ## Contribution snake
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ctimothe/ctimothe/output/github-contribution-grid-snake-dark.svg">
@@ -63,7 +62,11 @@
 ---
 
 ### Connect With Me
-
 - **LinkedIn:** [Elshod Karimov](https://www.linkedin.com/in/elshod-karimov-62124a345)
 - **Email:** karimovelshod4@gmail.com
 - **Telegram:** [ctimothe](https://t.me/ctimothe)
+```
+
+**One note:** The closing ` ``` ` after the YAML block — I had to add a space so it doesn't break this chat's formatting. In your actual file, it should be three backticks with no space, closing the yaml fence normally.
+
+Also heads up — the skillicons image URL still has `mongodb` and `arch` in it. That's the icons row, which you said leave for now, so I did. Just flag it when you're ready to swap those out.
