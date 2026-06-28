@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/elshod-karimov-62124a345" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="32px" alt="LinkedIn icon" />
   </a>
-  <a href="https://t.me/ctimothe" target="_blank" style="margin: 0 10px;">  
+  <a href="https://t.me/ctimothe" target="_blank" style="margin: 0 10px;">
     <img src="https://img.icons8.com/fluency/48/telegram-app.png" width="32px" alt="Telegram icon" />
   </a>
 </p>
@@ -39,23 +39,31 @@ open_to:            Client projects · Collaborations
 ---
 
 ### Technical Stack & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,linux,arch,bash,python,git,vscode" alt="Skills: JavaScript, React, Node.js, Express, MongoDB, Linux, Arch, Bash, Python, Git, VS Code" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,go,express,postgres,python,git,vscode" alt="Skills: JavaScript, TypeScript, React, Node.js, Go, Express, PostgreSQL, Python, Git, VS Code" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite badge" />
-  <img src="https://img.shields.io/badge/OWASP-005697?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge" />
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab badge" />
 </p>
 
 ---
 
-## Contribution snake
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ctimothe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### Contribution Snake
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ctimothe/ctimothe/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ctimothe/ctimothe/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ctimothe/ctimothe/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
