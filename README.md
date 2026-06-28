@@ -28,13 +28,13 @@
 ```yaml
 name:               Elshod Karimov
 role:               Full-Stack Developer
-currently_building: "[caseai.uz](https://caseai.uz) — Legal AI for lawyers in Uzbekistan"
+currently_building: Legal AI platform for lawyers in Uzbekistan
 stack:              [React, Node.js, Go, PostgreSQL]
 location:           Tashkent, Uzbekistan
 open_to:            Client projects · Collaborations
 ```
 
-3 years building production web apps and APIs. Currently focused on a legal AI product for Uzbekistan — RAG-based document search, Node.js/Go backend, clean React interface on the front.
+3 years building production web apps and APIs. Currently focused on **[caseai.uz](https://caseai.uz)** — RAG-based legal AI for Uzbekistan, Node.js/Go backend, clean React interface on the front.
 
 ---
 
