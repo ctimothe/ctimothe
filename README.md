@@ -32,7 +32,7 @@ currently_building: Legal AI platform for lawyers in Uzbekistan
 stack:              [React, Node.js, Go, PostgreSQL]
 location:           Tashkent, Uzbekistan
 open_to:            Client projects · Collaborations
-` `` ← remove this space, explained below
+```
 
 3 years building production web apps and APIs. Currently focused on a legal AI product for Uzbekistan — RAG-based document search, Node.js/Go backend, clean React interface on the front.
 
@@ -65,8 +65,3 @@ open_to:            Client projects · Collaborations
 - **LinkedIn:** [Elshod Karimov](https://www.linkedin.com/in/elshod-karimov-62124a345)
 - **Email:** karimovelshod4@gmail.com
 - **Telegram:** [ctimothe](https://t.me/ctimothe)
-```
-
-**One note:** The closing ` ``` ` after the YAML block — I had to add a space so it doesn't break this chat's formatting. In your actual file, it should be three backticks with no space, closing the yaml fence normally.
-
-Also heads up — the skillicons image URL still has `mongodb` and `arch` in it. That's the icons row, which you said leave for now, so I did. Just flag it when you're ready to swap those out.
