@@ -41,7 +41,7 @@ open_to:            Client projects · Collaborations
 ### Technical Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,go,express,postgres,python,git,vscode" alt="Skills: JavaScript, TypeScript, React, Node.js, Go, Express, PostgreSQL, Python, Git, VS Code" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,go,express,postgres,python,git,vscode" alt="Skills: JavaScript, TypeScript, React, Go, Node.js, Express, PostgreSQL, Python, Git, VS Code" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker badge" />
