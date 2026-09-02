@@ -34,7 +34,7 @@ location:           Tashkent, Uzbekistan
 open_to:            Client projects · Collaborations
 ```
 
-3 years building production web apps and APIs. Currently focused on **[caseai.uz](https://caseai.uz)** — RAG-based legal AI for Uzbekistan, Node.js/Go backend, clean React interface on the front.
+3 years building production web apps and APIs. Currently focused on **[sudlex.uz](https://sudlex.uz)** — RAG-based legal AI for Uzbekistan, Node.js/Go backend, clean React interface on the front.
 
 ---
 
